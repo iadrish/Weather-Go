@@ -1,4 +1,6 @@
-# Weather Go
+ # Weather Go  
+![Screenshot 2023-01-05 131657](https://user-images.githubusercontent.com/88700100/210728264-74157b35-f858-4d3d-ad4c-e9e6db255bb3.png)
+
 
 A simple and responsive Weather web app built using HTML and Javascript. 
 It utilises 
@@ -80,8 +82,9 @@ Deployment is Live on: https://iadrish.github.io/Weather-Go/
 
 ## Screenshots
 
-https://github.com/iadrish/Weather-Go/blob/7e78b0109d7114eecd20b1144962bdc8b7068f44/Images/Howrah.jpg.png
+![Howrah jpg](https://user-images.githubusercontent.com/88700100/210727751-4c8fa72c-0281-4dc3-a882-7653dc024edf.png)
 
 
 
-https://github.com/iadrish/Weather-Go/blob/7e78b0109d7114eecd20b1144962bdc8b7068f44/Images/Shantiniketan.jpg.png
+![Shantiniketan jpg](https://user-images.githubusercontent.com/88700100/210727818-e26f1f4f-42d4-4883-8cef-dbec9590d48c.png)
+
